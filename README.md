@@ -43,6 +43,7 @@ Hello! I'm Anand Satheesh, a seasoned software architect with over 11 years of e
 
 ## 📚 Latest Blog Posts
 
+- [Database Dilemmas: Cracking the Code to Your Perfect Database Match](https://medium.com/p/c4c59f0339bf)
 - [Lets build a web scraper for Google Maps](https://medium.com/@anands282/lets-build-a-web-scraper-for-google-maps-072cf0127fdc)
 - [A closer look at Airflow sensors](https://medium.com/@anands282/a-closer-look-at-airflow-sensors-56b7ddf330c5)
 - [Apache Spark Streaming vs Structured Streaming](https://medium.com/@anands282/apache-spark-streaming-vs-structured-streaming-219aa2d9bcf8)
