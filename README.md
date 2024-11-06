@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm Anand Satheesh, a seasoned software architect with over 11 years of experience in building robust big data and data engineering solutions. Currently, I am working at IBM India, where I leverage my expertise to architect and implement scalable data pipelines, data lakes, and microservices architectures.
+Hello! I'm Anand Satheesh, a seasoned software architect with over 12 years of experience in building robust big data and data engineering solutions. Currently, I am working at IBM India, where I leverage my expertise to architect and implement scalable data pipelines, data lakes, and microservices architectures.
 
 ---
 
