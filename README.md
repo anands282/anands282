@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm Anand Satheesh, a seasoned software architect with over 12 years of experience in building robust big data and data engineering solutions. Currently, I am working at IBM India, where I leverage my expertise to architect and implement scalable data pipelines, data lakes, and microservices architectures.
+Hello! I'm Anand Satheesh, a seasoned software architect with over 13 years of experience in building robust big data and data engineering solutions. Currently, I am working at IBM India, where I leverage my expertise to architect and implement scalable data pipelines, data lakes, and microservices architectures.
 
 ---
 
@@ -42,7 +42,8 @@ Hello! I'm Anand Satheesh, a seasoned software architect with over 12 years of e
 ---
 
 ## 📚 Latest Blog Posts
-
+- [Deriving value from LLMs using RAG](https://medium.com/@anands282/deriving-value-from-llms-using-rag-15fd8b26a8d5)
+- [Handling Large number of Small Files in Big Data Frameworks](https://medium.com/@anands282/handling-large-number-of-small-files-in-big-data-frameworks-5907d0add9a6)
 - [Database Dilemmas: Cracking the Code to Your Perfect Database Match](https://medium.com/p/c4c59f0339bf)
 - [Lets build a web scraper for Google Maps](https://medium.com/@anands282/lets-build-a-web-scraper-for-google-maps-072cf0127fdc)
 - [A closer look at Airflow sensors](https://medium.com/@anands282/a-closer-look-at-airflow-sensors-56b7ddf330c5)
